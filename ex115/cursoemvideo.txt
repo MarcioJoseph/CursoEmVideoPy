@@ -1,0 +1,5 @@
+Bisna;33
+Deuda;33
+Diuda;29
+Mike;28
+Lua;28
