@@ -13,7 +13,11 @@ while True:
         # Opção de listar o conteudo de um arquivo
         lerArquivo(arq)
     elif resposta == 2:
-        cabeçalho('Opção 2')
+        # novo cadastro
+        cabeçalho('NOVO CADASTRO')
+        nome = str(input('Nome: '))
+        idade = leiaInt('Idade: ')
+        cadastrar(arq, nome, idade)
     elif resposta == 3:
         cabeçalho('Saindo do sistema... Até logo!')
         break
