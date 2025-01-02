@@ -2,3 +2,5 @@ Joseph;34
 Bisna;33
 Katia;31
 Sara;29
+joão jose;73
+graciete barbosa;72

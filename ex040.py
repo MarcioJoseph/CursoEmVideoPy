@@ -6,6 +6,6 @@ if media < 5:
     print('O aluno está reprovado!')
 elif media >= 5 and media < 7:
     print('O aluno esta de recuperação')
-else media >= 7:
+else:
     print('O aluno esta aprovado')
 

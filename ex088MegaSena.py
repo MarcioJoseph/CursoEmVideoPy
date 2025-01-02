@@ -7,7 +7,7 @@ cont = 0
 lista = list()
 jogos = list()
 print('=-' * 15)
-print('       JOGA NA MEGA SENA       ')
+print('       NÚMEROS QUE VÃO SAIR NA MEGA DA VIRADA!        ')
 print('=-' * 15)
 quant = int(input('Quantos jogos você quer que eu sorteie? '))
 tot = 1
