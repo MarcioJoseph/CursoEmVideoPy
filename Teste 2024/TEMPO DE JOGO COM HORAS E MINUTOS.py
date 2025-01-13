@@ -9,7 +9,7 @@ totalM = mFim - mInicio
 if totalH <= 0:
     totalH = 24 + (hFim - hInicio)
 
-if totalM < 0:
+if totalM <= 0:
     totalM = 60 + (mFim - mInicio)
     totalH -= 1
 
