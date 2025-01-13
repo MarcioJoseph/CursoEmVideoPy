@@ -6,7 +6,7 @@ totalH = hFim - hInicio
 totalM = mFim - mInicio
 
 # Ajusta os valores caso sejam negativos
-if totalH < 0:
+if totalH <= 0:
     totalH = 24 + (hFim - hInicio)
 
 if totalM < 0:
